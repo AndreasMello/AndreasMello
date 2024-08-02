@@ -1,8 +1,5 @@
-Sou um amante de tecnologia - @AndreasMello
- Tenho interesse - cypress, java script, Robot, Git
-- .
+Sou um amante de tecnologia e  atualmente trabalho como nalista de qualidade.
+ Tenho interesse  e aprender  sobre: cypress, java script, Robot, css e html.
 
-<!---
-AndreasMello/AndreasMello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
